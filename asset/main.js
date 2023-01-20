@@ -25,6 +25,12 @@ const app = {
     // config: JSON.parse(localStorage.getItem(PLAYER_STORAGE_KEY)) || {},
 
     songs: [{
+            name: 'Neveda',
+            singer: 'Vicetone',
+            path: './asset/music/Vicetone-Nevada-Remix.mp3',
+            image: './asset/img/img7.jpeg'
+        },
+            {
             name: 'Dau mua',
             singer: 'Trung quan idol',
             path: './asset/music/dau_mua.mp3',
